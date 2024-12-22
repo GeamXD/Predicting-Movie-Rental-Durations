@@ -1,7 +1,3 @@
-Here’s an improved version of your recap that highlights it as a machine learning-focused project with minimal data analysis:
-
----
-
 🎬 **Project Recap: Predicting DVD Rental Lengths** 🎥
 
 1️⃣ **Objective**: Develop regression models to predict rental durations, helping the company optimize inventory.
